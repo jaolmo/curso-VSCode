@@ -1,4 +1,9 @@
+export class SuperHeroe {
 
+    constructor () {
+        //Hola mundo
+    }
+}
 
 
 
